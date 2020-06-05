@@ -1,2 +1,4 @@
 # curbi2020
 curbi BFSI Domain
+
+BFSI is banking domain
